@@ -1,6 +1,11 @@
 ## Step 8: Add a list
 
 In this pull request, you'll learn about lists and emoji. You'll also list a few details in your resume.
+  ## What We Need 
+  * Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 :point_down: Please See List Below
 
@@ -22,3 +27,5 @@ In this pull request, you'll learn about lists and emoji. You'll also list a few
   | :smile:    | `:smile:`    |
   | :sparkles: | `:sparkles:` |
   | :tada:     | `:tada:`     |
+  
+
